@@ -36,7 +36,7 @@ export default class Tour {
                   />
                   <div class="input-group-append">
                     <button
-                    class="btn btn-outline-secondary"
+                    class="btn btn-outline-info"
                     type="submit"
                     id="button-addon2"
                     >
